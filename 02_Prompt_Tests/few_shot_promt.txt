@@ -1,0 +1,20 @@
+Aşağıdaki örnek formatı kullanarak CVE analizi yap.
+
+Örnek:
+
+CVE:
+CVE-2025-1234
+
+Risk:
+Yüksek
+
+Açıklama:
+Uzaktan kod çalıştırma açığı bulunmaktadır.
+
+Çözüm:
+Güncelleme uygulanmalıdır.
+
+
+Yeni görev:
+
+CVE-2026-1234 analiz et.

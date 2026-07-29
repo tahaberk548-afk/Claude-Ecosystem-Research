@@ -1,0 +1,3 @@
+CVE-2026-1234 güvenlik açığını analiz et.
+
+Açığın türünü, risk seviyesini ve çözüm önerisini belirt.

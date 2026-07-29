@@ -1,0 +1,20 @@
+# Prompt Test Sonuçları
+
+## Test Konusu
+
+CVE güvenlik açığı analizi
+
+
+## Sonuçlar
+
+| Teknik | Sonuç |
+|---|---|
+| Zero-Shot | Genel cevap, düşük format kontrolü |
+| Few-Shot | Daha düzenli ve tutarlı çıktı |
+| XML Prompt | En kontrollü ve otomasyona uygun çıktı |
+
+
+## Değerlendirme
+
+Few-Shot ve XML tabanlı prompt teknikleri,
+kurumsal analiz süreçlerinde daha kullanışlı sonuçlar sağlamıştır.

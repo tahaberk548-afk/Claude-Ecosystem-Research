@@ -1,0 +1,11 @@
+CVE güvenlik açığını analiz et.
+
+Çıktıyı şu formatta oluştur:
+
+Risk Seviyesi:
+
+Açıklama:
+
+Etkilenen Sistemler:
+
+Çözüm Önerisi:
