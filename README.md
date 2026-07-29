@@ -93,3 +93,10 @@ Kullanılan kaynaklar ve referanslar.
 ---
 
 # Proje Yapısı
+
+
+---
+
+# Hazırlayan
+
+Taha Berk İRGÖREN
