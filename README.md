@@ -115,5 +115,31 @@ Kullanılan kaynaklar ve referanslar.
 
 Backend klasörüne gidin:
 
-```bash
 cd 04_Prototype/backend
+
+Gerekli paketleri yükleyin:
+
+python -m pip install -r requirements.txts
+
+Uygulamayı başlatın:
+
+python -m uvicorn main:app --reload
+
+API arayüzü:
+
+http://127.0.0.1:8000/docs
+
+Proje Yapısı
+
+Claude-Ecosystem-Research
+
+├── 01_Technical_Report
+├── 02_Prompt_Tests
+├── 03_Workflow_Designs
+├── 04_Prototype
+├── 05_Presentation
+└── 06_Sources
+
+Hazırlayan
+
+Taha Berk İRGÖREN
